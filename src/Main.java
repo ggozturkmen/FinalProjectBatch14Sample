@@ -10,5 +10,11 @@ public class Main {
         Fxron.color="green";
         Fxron.size="438274km";
         Fxron.temp="-234784472k";
+
+        Planet2 Boris=new Planet2();
+        Boris.color="pink";
+        Boris.size=3498;
+        Boris.rings="1";
+        Boris.temperature="9338k";
     }
 }
