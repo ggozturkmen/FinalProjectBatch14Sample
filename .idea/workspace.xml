@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42434f4b-e9f1-4f7c-9f9d-582102883afe" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/Planet1.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/Planet2.java" afterDir="false" />
+>>>>>>> planet2
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +40,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "/Users/gozturkmen/Desktop/Mr.A/FinalProjectBatch14Sample"
+=======
+    "last_opened_file_path": "/Users/gozturkmen/Desktop/Mr.B/FinalProjectBatch14Sample"
+>>>>>>> planet2
   }
 }]]></component>
   <component name="RunManager">
